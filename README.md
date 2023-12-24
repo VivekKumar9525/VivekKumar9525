@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkumar9525" alt="vivekkumar9525" /></a> </p>
 
-<p>&nbsp;<img align="right" width="400" height = "420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="vivekkumar9525" /></p>
+<p>&nbsp;<img align="right" width="400" height = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="vivekkumar9525" /></p>
 
 
 - 🔭 I’m currently working on **ERP System for Institute**
@@ -28,4 +28,4 @@
 
 <p><img align="left" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkumar9525&show_icons=true&locale=en&layout=compact" alt="vivekkumar9525" /></p>
 
-<p>&nbsp;<img align="right" width="400" height="600" src="https://github-readme-stats.vercel.app/api?username=vivekkumar9525&show_icons=true&locale=en" alt="vivekkumar9525" /></p>
+<p>&nbsp;<img align="right" width="400"  src="https://github-readme-stats.vercel.app/api?username=vivekkumar9525&show_icons=true&locale=en" alt="vivekkumar9525" /></p>
