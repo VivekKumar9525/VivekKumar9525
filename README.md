@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advance Java and Web Development**
 
-- 📫 How to reach me **vj952585@gmail.com**
+- 📫 How to reach me **vivekjaiswal3571@gmail.com**
 
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1HQiYL8NOH73wuM6Do-dRjA0ZRmTsJ54s/view?usp=drive_link])
 
