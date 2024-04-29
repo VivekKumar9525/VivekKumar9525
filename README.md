@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vj952585@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1HQiYL8NOH73wuM6Do-dRjA0ZRmTsJ54s/view?usp=drive_link(https://drive.google.com/file/d/1OMXEI6Y89xjKsQ8B2Vr31asV7QW5c1gL/view?usp=drive_link))]
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1HQiYL8NOH73wuM6Do-dRjA0ZRmTsJ54s/view?usp=drive_link])
 
 
 <h3 align="left">Connect with me:</h3>
